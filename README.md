@@ -33,11 +33,10 @@ Marketplace sellers (like me) face several operational challenges:
 ## 🎬 Demo
 Here’s how WBNotifier works in action:
 <p float="left">
-  <img src="assets/1.gif" width="300" />
-  <img src="assets/2.gif" width="300" />
-  <img src="assets/3.gif" width="300" />
+  <img src="assets/1.gif" width="250" />
+  <img src="assets/2.gif" width="250" />
+  <img src="assets/3.gif" width="250" />
 </p>
-
 
 ---
 ## 🧠 Tech Stack
