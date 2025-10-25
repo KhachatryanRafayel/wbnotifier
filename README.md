@@ -4,6 +4,8 @@
 It also lets you quickly access essential information — such as orders, prices, and stock levels — in one click.  
 The project started as a practical tool for a single seller and is designed for future scalability and potential commercial use.
 
+![logo](assets/logo.gif)
+
 ---
 ## 💡 Why It Matters (Business Problem)
 
@@ -27,6 +29,16 @@ Marketplace sellers (like me) face several operational challenges:
 - **🆕 Orders (FBS)** — Lists recent orders (with quantity, country, price, and date/time).
 - **💵 Price of My Goods** — Displays 4 prices: yours and supplier’s in both countries.
 - **📦 Number of Goods in Stock** — Shows current stock level.
+---
+## 🎬 Demo
+Here’s how WBNotifier works in action:
+<p float="left">
+  <img src="assets/1.gif" width="300" />
+  <img src="assets/2.gif" width="300" />
+  <img src="assets/3.gif" width="300" />
+</p>
+
+
 ---
 ## 🧠 Tech Stack
 
