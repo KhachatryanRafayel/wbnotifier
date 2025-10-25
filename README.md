@@ -47,6 +47,7 @@ Here’s how WBNotifier works in action:
     - _Although aiogram is fully asynchronous, the current version of WBNotifier uses the requests library for simplicity and stability.
 Since the project currently serves a single user, the performance difference is negligible, and asynchronous HTTP calls were not required at this stage.
 This approach keeps the codebase simpler while maintaining reliability._
+- ☁️ It is also worth noting that bot hosted on a remote PaaS server, running 24/7 for continuous monitoring (just for me for now).
 ---
 ## 🧩 Architecture
 
