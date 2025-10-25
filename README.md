@@ -9,6 +9,8 @@ The project started as a practical tool for a single seller and is designed for 
 ---
 ## 💡 Why It Matters (Business Problem)
 
+While selling a product on Wildberries, I often ran into a few recurring challenges that made managing orders and prices tedious and time-consuming. To tackle these issues, I decided to create a Telegram bot — WBNotifier that addresses the key business problems sellers face:
+
 Marketplace sellers (like me) face several operational challenges:
 - 🔻 **Unnotified price changes:** Wildberries often applies automatic discounts without alerting the seller, which can affect profit margins.
 - 📉 **Stock issues:** Products can sell out unnoticed, and new orders may be missed unless the dashboard is constantly checked.
